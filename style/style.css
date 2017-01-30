@@ -1,0 +1,261 @@
+@font-face {
+    font-family: 'Slabo 27px';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Slabo 27px'), local('Slabo27px-Regular'), url('../Slabo_27px/slabo.woff2') format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+    font-family: 'Slabo 27px';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Slabo 27px'), local('Slabo27px-Regular'), url('../Slabo_27px/PuwvqkdbcqU-fCZ9Ed-b7fk_vArhqVIZ0nv9q090hN8.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: lightgray;
+}
+
+.container{
+    position: relative;
+}
+
+.insert{
+    background-color: white;
+    text-align: center;
+    padding: 10px 50px;
+    margin: 0 auto;
+    font-size: 25px;
+    border: 1px solid #333333;
+    border-radius: 20px;
+    position: absolute;
+    top: 620px;
+    right: 153px;
+    z-index: 9999;
+    display: none;
+
+
+}
+
+
+@media (min-width: 1200px) {
+    .insert{
+        max-width: 500px;
+    }
+}
+
+
+.navbar-default{
+    background: #333333;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px dotted black;
+}
+
+.container .jumbotron{
+    background-color: #333333;
+    color: white;
+    border-radius: 0;
+}
+
+table{
+    width: 100%;
+}
+
+
+table tr,td,th{
+    text-align: center;
+    border: 1px solid black;
+}
+
+table th,td:hover{
+    background-color: gray;
+    color: #000000;
+    transition: 0.5s ease;
+}
+
+@media (max-width: 767px) {
+    .table-responsive {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        overflow-x: scroll;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #DDD;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+.table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #DDD;
+    -webkit-overflow-scrolling: touch;
+}
+
+.btn-custom,.btn-custom:link, .btn-custom:focus{
+    background-color: lightgray;
+    border-color: black;
+    color: #333333;
+    text-decoration: none;
+    border-radius: 05px;
+    font-weight: bold;
+    transition: 0.5s ease;
+}
+
+.btn-custom:hover{
+    background-color: #333333;
+    border-color: black;
+    color: lightgray;
+    text-decoration: none;
+    box-shadow: 0 0 15px #888888;
+    transition: 0.5s ease;
+}
+
+.modal-header{
+    padding: 40px;
+    background-color: gray;
+    color: white;
+}
+
+
+.spinner {
+    display: none;
+}
+
+.updateValueText{
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-left: 80px;
+}
+
+.tickAnimateUpdate {
+    -webkit-animation-iteration-count: 2;
+    color:  green;
+}
+
+.tickAnimateDelete{
+    -webkit-animation-iteration-count: 2;
+    color:  red;
+}
+
+
+ul.pagination > li > a{
+    padding: 10px 20px;
+    color: gray;
+}
+
+ul.pagination .active > a{
+    color: gainsboro;
+    background-color: black;
+    border: none;
+}
+
+#footer{
+    width:940px;
+    height:100px;
+    background:#0063a4;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0063a4), color-stop(100%, #043775));
+    padding:10px;
+    border-top:2px solid #F00;
+    float:left
+}
+.footer_left{
+    width:150px;
+    margin-top:3px;
+    font-size:14px;
+    color:#FFFFFF;
+    float:left
+}
+.footer_center{
+    width:550px;
+    margin-top:3px;
+    margin-left:70px;
+    font-size:14px;
+    color:#FFFFFF;
+    float:left;
+    text-align:center
+}
+
+/* ATTENDANCE */
+
+
+.col-sm-1.batchTable{
+    display: none;
+}
+
+.unvisited:link, .unvisited:hover{
+    color: #169DDA;
+    text-decoration: none;
+}
+
+
+
+
+#myModalUpdate .modal-header{
+    background: rgba(183,222,237,1);
+    background: -moz-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(183,222,237,1)), color-stop(50%, rgba(113,206,239,1)), color-stop(51%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
+    background: -webkit-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -o-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=1 );
+    color: black;
+    padding: 25px;
+}
+
+@media screen and (min-width: 768px) {
+
+    #myModalUpdate .modal-dialog  {width:900px;}
+
+}
+
+#myModalUpdate .modal-dialog  {width:60%;}
+
+#modalLogo{
+    width: 130px;
+    height: 90px;
+    padding: 0;
+}
+
+#rono_err > label{
+        display: block;
+ }
+
+#rono_err input{
+    width: 40px;
+    display: inline;
+    text-align: center;
+}
+
+.inputFileRegister{
+    margin-top: 45px;
+}
+
+#file{
+    margin-top: 25px;
+}
+
+.rono_err, .insert_loading{
+    display:none;
+}
+
+#rono_err #roll_no{
+    width: 60px;
+}
+
+
+#rono_err #roll_no_depart{
+    width: 50px;
+}
+

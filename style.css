@@ -1,0 +1,952 @@
+@font-face {
+    font-family: 'Slabo 27px';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Slabo 27px'), local('Slabo27px-Regular'), url('Slabo_27px/slabo.woff2') format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+    font-family: 'Slabo 27px';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Slabo 27px'), local('Slabo27px-Regular'), url('Slabo_27px/PuwvqkdbcqU-fCZ9Ed-b7fk_vArhqVIZ0nv9q090hN8.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+
+body{
+    font-family: 'Slabo 27px', serif;
+    font-size: 17px;
+    background: rgba(235,246,250,1);
+    background: -moz-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+    background: linear-gradient(135deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebf6fa', endColorstr='#bee2ea', GradientType=1 );  -webkit-box-shadow: 0 0 15px 2px rgba(255,255,255,1);
+    height: auto !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    border-top: 1px solid #169DDA;
+}
+
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #169DDA;
+}
+
+.table>tbody+tbody {
+    border-top: 1px solid #169DDA;
+}
+.form-control{
+    font-size: 17px;
+}
+
+
+
+.customNavbar{
+   background-color: #169DDA;
+}
+
+.dashboardIcons{
+    color: rgba(33,180,226,1);
+   }
+
+.dashboardIcons.glyphicon-book{
+    font-size: 80px;
+}
+
+.dashboardIcons:hover{
+    text-shadow: 0 0 4px black;
+    -webkit-transition: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    transition: 0.5s ease;
+}
+
+.activeLink{
+    color: rgb(39, 91, 107);
+}
+
+
+.placeholder a:link{
+    color: #1b6d85;
+}
+
+.placeholder a:hover{
+    text-decoration: none;
+}
+
+.page-header, .sub-header{
+    border-bottom: 1px solid #169DDA;
+}
+
+
+
+#navbar ul li a {
+    color: white;
+}
+
+.navbar-header a.navbar-brand{
+    color: white;
+}
+
+thead > tr > th {
+    text-align: center;
+}
+
+th{
+    border-bottom: 2px solid #169DDA !important;
+    background-color: #169DDA;
+}
+
+
+
+td{
+    border-bottom: 1px solid #169DDA !important;
+}
+
+tr:hover{
+    color: black;
+    background-color: rgba(235,246,250,1) !important;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    transition: 1s ease;
+}
+
+.btn {
+    font-size: 17px;
+    outline: none;
+}
+
+.sic_profile{
+    margin-bottom: 20px;
+}
+
+.teacher_profile{
+    margin-bottom: 20px;
+}
+
+#insert{
+   margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+#addnew{
+    display: none;
+}
+
+.rono_err{
+    color: white;
+    margin: 15px 0 0 35px;
+   display: none;
+}
+
+.empid_error{
+    color: white;
+    margin: 15px 0 0 35px;
+    display: none;
+}
+
+.insert_loading{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 22px;
+    display: none;
+}
+
+
+.addNewStudent .row .col-sm-4{
+    padding: 8px 0;
+}
+
+.addNewStudent .row .col-sm-4 .form-group label{
+
+    display: block;
+}
+
+.addNewStudent .row .col-sm-4 .form-group .form-control{
+    display: block;
+}
+
+
+#new{
+    margin-bottom: 20px;
+}
+
+
+
+
+.animateInsert{
+    -webkit-animation-delay: 1s;
+    color: #006600;
+}
+
+
+#rono_err input{
+    width: 65px;
+    display: inline;
+    text-align: center;
+}
+
+
+.sic_view{
+    -moz-box-shadow: 0 0 2px 1px #169DDA;
+    box-shadow: 0 0 2px 1px #169DDA;
+    border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    width: 40%;
+    margin: 0 60px;
+
+}
+.sic_view:hover{
+
+    border-color: #169DDA;
+    -webkit-box-shadow: 0 0 15px 5px rgba(255,255,255,1);
+    -moz-box-shadow: 0 0 15px 5px rgba(255,255,255,1);
+    box-shadow: 0 0 15px 5px #169DDA;
+    -webkit-transition: 1s linear;
+    -moz-transition: 1s linear;
+    transition: 1s linear;
+    cursor: pointer;
+
+
+}
+
+.teacher_view{
+    -moz-box-shadow: 0 0 2px 1px #169DDA;
+    box-shadow: 0 0 2px 1px #169DDA;
+    border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    width: 40%;
+    margin: 0 60px;
+
+}
+.teacher_view:hover{
+
+    border-color: #169DDA;
+    -webkit-box-shadow: 0 0 15px 5px rgba(255,255,255,1);
+    -moz-box-shadow: 0 0 15px 5px rgba(255,255,255,1);
+    box-shadow: 0 0 15px 5px #169DDA;
+    -webkit-transition: 1s linear;
+    -moz-transition: 1s linear;
+    transition: 1s linear;
+    cursor: pointer;
+
+}
+
+.profile_name{
+    margin-top: 6px;
+    font-size: 18px;
+}
+
+.profile_name b:hover {
+    font-size: 20px;
+}
+
+.sic_profile_content a:link{
+    text-decoration: none;
+}
+
+.teacher_profile_content a:link{
+    text-decoration: none;
+}
+
+
+#picture{
+    width: 200px;
+    height: 200px;
+    //background: url("images/profile_pic.PNG") no-repeat;
+    display: inline;
+    float: right;
+    }
+
+#picture img{
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+
+.imgContainer {
+    height: 100px;      /* equals max image height */
+    width: 100px;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+
+.picture{
+    vertical-align: middle;
+    max-height: 80px;
+    max-width: 80px;
+
+}
+
+/* sic.php  Excel Image Input Form*/
+
+#addExcel{
+    display: inline-block;
+}
+
+#submitExcelFile{
+    display: none;
+}
+
+#excelFile, #file{
+  display: none;
+}
+
+.btnFileLabel{
+    margin-top: -20px;
+}
+
+#errorExcel{
+    color: red;
+    display: none;
+}
+
+/* SIC profile */
+
+.sicProfileContainer{
+    font-size: 18px;
+    background: rgba(183,222,237,1);
+    background: -moz-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgb(33, 180, 226) 51%, rgba(183,222,237,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(183,222,237,1)), color-stop(50%, rgba(113,206,239,1)), color-stop(51%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
+    background: -webkit-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -o-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=1 );
+    -moz-box-shadow: 0 0 1px 1px #169DDA;
+    box-shadow: 0 0 2px 1px #169DDA;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    border: 0 solid #000000;
+    margin-bottom: 20px;
+
+}
+
+.sicProfileContainer:hover{
+    -webkit-box-shadow: 0 0 2px 2px rgba(255,255,255,1);
+    -moz-box-shadow: 0 0 2px 2px rgba(255,255,255,1);
+    box-shadow: 0 0 2px 2px #169DDA;
+    -webkit-transition: 1s linear;
+    -moz-transition: 1s linear;
+    transition: 1s linear;
+}
+
+.sicPersonalInfoHeading{
+    margin: 0;
+    padding: 20px;
+    background-color: #169DDA;
+    border-bottom: 10px solid #21B4E2;
+    -moz-border-radius: 0 10px 0 0;
+    -webkit-border-radius: 0 10px 0 0;
+
+}
+
+.sicProfileSideBar{
+    height: auto;
+    padding: 0;
+    border-radius: 10px 0 0 0 ;
+}
+
+.sicProfileMain{
+    min-height:  461px;
+    padding: 0;
+    border-left: 10px solid #21B4E2;
+}
+
+.sicPhotoContainer{
+    background-color: #169DDA;
+    max-height: 350px;
+    border-radius: 10px 0 0 0 ;
+
+}
+
+.sicPhotoContainer img{
+    width: 100%;
+    min-height: 300px;
+    max-height: 300px;
+    border-radius: 10px 0 0 0;
+  //  object-fit: cover;
+    background-size: cover;
+}
+
+.sicPhotoContainer .btnCustom{
+    margin: 5px auto;
+    display: block;
+    font-size: 15px;
+}
+
+.sicProfileLinks{
+    margin-top: 20px;
+}
+
+.sicProfileLinks li{
+
+    padding: 3px 5px;
+    list-style-type: circle;
+}
+
+.sicProfileLinks li a{
+    color: #286090;
+    text-decoration: none;
+}
+
+.sicProfileLinks li a:hover{
+    color: black;
+}
+
+.sicPersonalInfoRow{
+    padding: 20px;
+    margin: 0;
+    border-bottom: 10px solid #21B4E2;
+    -moz-border-radius: 0 0 10px 0;
+    -webkit-border-radius: 0 0 10px 0;
+    border-radius: 0 0 10px 0;
+
+}
+
+#addPicture{
+    display: block;
+}
+
+#addPicture > .btn-file{
+    display: block;
+}
+
+#submitPictureNew, #pictureNew{
+    display: none;
+}
+
+#submitUpdate{
+    display: inline;
+}
+
+#deleteYes{
+    outline: none;
+    border-color: red;
+}
+
+#delete{
+    margin-left: 5px;
+}
+
+/* MODAL */
+
+#myModalUpdate .modal-content{
+    background: rgba(183,222,237,1);
+    background: -moz-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgb(33, 180, 226) 51%, rgba(183,222,237,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(183,222,237,1)), color-stop(50%, rgba(113,206,239,1)), color-stop(51%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
+    background: -webkit-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -o-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgb(33, 180, 226) 51%, rgba(183,222,237,1) 100%);
+    background: linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=1 );
+    -moz-box-shadow: 0 0 1px 1px #169DDA;
+    box-shadow: 0 0 2px 1px #169DDA;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    border: 0 solid #000000;
+}
+
+#myModalUpdate .modal-footer{
+    border-top: 2px solid #21B4E2;
+}
+
+#myModalUpdate .modal-header{
+    border-bottom: 2px solid #21B4E2;
+}
+
+#updateNew{
+    display: none;
+}
+
+
+
+.donut:hover{-webkit-box-shadow: 0 0 2px 2px rgba(255,255,255,1);
+    -moz-box-shadow: 0 0 2px 2px rgba(255,255,255,1);
+    box-shadow: 0 0 2px 2px #169DDA;
+   }
+
+
+.donut > h1 {
+    margin-bottom: 0;
+}
+
+
+.pagination li a{
+    background-color: rgba(22, 157, 218, 0.21);
+    border: none;
+    color: black;
+}
+
+.pagination li a:hover{
+    background-color: #169DDA;
+}
+
+#perPage, #departmentSearch{
+    display: inline;
+}
+
+
+
+#perPage > .form-group, #departmentSearch > .form-group{
+    margin-top: -14px;
+    margin-left: 5px;
+}
+
+#searchQuery{
+    outline: none;
+}
+
+#searchQuery::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: white;
+}
+#searchQuery::-moz-placeholder { /* Firefox 19+ */
+    color: white;
+}
+#searchQuery:-ms-input-placeholder { /* IE 10+ */
+    color: white;
+}
+#searchQuery:-moz-placeholder { /* Firefox 18- */
+    color: white;
+}
+
+/* ATTENDANCE */
+
+.batchTable{
+    display: none;
+}
+
+.attendance{
+    display: none;
+}
+
+.buttonSize{
+    width: 50%;
+    display: block;
+    margin:  20px auto;
+    font-size: 30px;
+}
+
+
+.insertAttendance{
+    display: none;
+}
+
+#output{
+    margin: 10px auto;
+}
+
+#output table,th,td {
+    text-align: center;
+}
+
+
+.attendanceInfo{
+    padding-right: 0;
+}
+
+.attendanceInfo:last-of-type{
+    padding-right: 15px;
+}
+
+.insertButton, .viewButton{
+    width: 10%;
+    outline: none;
+}
+
+.insertButton:hover{
+    background-color: #1fd20f;
+    outline: none;
+}
+
+.insertButton:focus{
+    outline: none;
+    background-color: #1fd20f;
+}
+
+.student_present{
+    background-color: #1fd20f;
+}
+
+#submitAtt{
+    display: none;
+    margin-bottom: 20px;
+}
+
+.student_absent{
+    background-color: #ff5234;
+}
+
+.allPresent, .allAbsent{
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+}
+
+
+.error_msg{
+    margin-left: 50px;
+}
+
+#subjectInsert{
+    margin-top: 12px;
+}
+
+.insertSubjectBtn{
+    margin-bottom: 20px;
+}
+
+#studentStats, #teacherStats, #bookStats, #messageStats{
+    display: none;
+}
+
+
+
+.panel-customGrey{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #275b6b;
+    border-radius: 4px;
+}
+
+.panel.panel-customGrey>.panel-heading{
+    background-color: #275b6b;
+    border-color: #275b6b;
+    color: #fff;
+}
+
+#teacherView, #hideTeacherStats {
+    color: #275b6b;
+}
+
+
+
+.panel-customPurple{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #673AB7;
+    border-radius: 4px;
+}
+
+.panel.panel-customPurple>.panel-heading{
+    background-color: #673AB7;
+    border-color: #673AB7;
+    color: #fff;
+}
+
+#messageView, #hideMessageStats {
+    color: #673AB7;
+}
+
+.subjects, .subjectShow, .subjectShowTable{
+    display: none;
+}
+
+.subjectShow, #addExcelSubject{
+    margin-top: -20px;
+}
+
+#subjectSubmit{
+    padding: 3px 11px;
+}
+
+#subjectOutput, #outputEvent{
+    margin-top: 10px;
+}
+
+#addevent{
+    margin-bottom: 10px;
+}
+
+#insertEvent{
+    display: none;
+}
+
+.td_despHidden{
+    display: none;
+}
+
+#eventInsert{
+    margin-bottom: 30px;
+}
+
+#myModalView h3{
+    background-color: #169DDA;
+}
+
+.dashStudentHeading{
+    color: black;
+    background-color: #169DDA;
+    padding: 10px;
+    text-align: center;
+    border: 2px dashed #337AB7;
+}
+
+#attSubmitBtn, #attViewSubmitBtn{
+    padding: 4px 25px;
+}
+
+#attInsertView{
+    display: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.btnUpdate{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#examinationInsert{
+    margin-top: 12px;
+}
+
+.insertExaminationBtn{
+    margin-bottom: 20px;
+}
+
+
+#addExcelExamination, .examinations,  .examinationShowTable{
+    display: none;
+}
+
+.examinationShow{
+    margin-top: 10px;
+}
+
+#examinationSubmit{
+    padding: 3px 11px;
+}
+
+#examinationOutput, #outputEvent{
+    margin-top: 10px;
+}
+
+.about{
+    color:#A6A6A6;
+    border-bottom: 2px solid #ccc;
+}
+
+#oldPassword, #newPassword, #confirmPassword{
+    width: 95%;
+}
+
+/*FOOTER*/
+
+.footer{
+    background-color: #174f80;
+    color: #FFFFF9;
+    padding: 20px 30px;
+    text-align: justify;
+    position: absolute;
+    top: 100%;
+}
+
+.footer hr {
+    border-color: #122F53;
+}
+
+.footerContent{
+    border-left: dashed;
+    border-color: #122F53;
+}
+
+.footer .copyright{
+    color: #AFB9C5;
+}
+
+.footer .copyright span{
+
+    border-color: #122F53;
+}
+
+.copyright .copyrightCs{
+    font-weight: 600;
+}
+
+.footer ul {
+    list-style-position: inside;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    list-style-type: circle;
+    color: #001733;
+    padding-left: 10px;
+}
+
+.footer ul li a{
+    color: #F7F1E2;
+    text-decoration: none;
+}
+
+.footer ul li a:hover{
+    color: #169DDA;
+}
+
+.footer .LinkHeading{
+    letter-spacing: 2px;
+    background-color: #001733;
+    padding: 5px;
+    margin-top: 0;
+    color: #F7F1E2;
+}
+
+
+@media screen and (max-width: 480px) {
+    .footer ul {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+
+    }
+}
+
+.feedBackHeading{
+    letter-spacing: 2px;
+    background-color: #174f80;
+    padding: 5px;
+    color: #F7F1E2;
+}
+
+#subjectInsert{
+    display: none;
+}
+
+.sicResult{
+    display: none;
+}
+
+#submitExam{
+    margin-top: 28px;
+}
+
+.examOutput, #sicHeadExamButton{
+    display: none;
+}
+
+#insertExamBtn{
+    margin-right: 8px;
+}
+
+.sicResultShow{
+    display: none;
+}
+
+.sicResultAtt{
+    display: none;
+}
+
+@media screen and (max-width: 1200px) {
+
+    .sic_profile{
+        width: 100%;
+    }
+
+    .sic_view{
+        margin: 0 auto;
+        height: auto;
+        min-width: 190px;
+        width: auto;
+        box-shadow: 0 0 2px 1px #169DDA;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+    }
+
+    .sic_profile_content{
+        width: 100%;
+    }
+
+    .imgContainer{
+        width: 42px;
+        height: 50px;
+    }
+
+    .picture{
+        vertical-align: middle;
+        max-height: 39px;
+        max-width: 45px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+
+    .sic_profile{
+        width: 100%;
+    }
+
+    .sic_view{
+        margin: auto;
+        height: auto;
+        width: 50%;
+    }
+
+}
+
+
+@media screen and (min-width:1200px) {
+
+    .placeholder{
+        margin-right: 20px;
+    }
+
+}
+
+#updateExamGoBtn, #updateExamOutput{
+    display: none;
+}
+
+#insertAssignment, #insertLectures{
+    display:none;
+}
+
+#addAssignment, #addLectures{
+    margin-bottom:10px;
+}
+
+.viewAttendance{
+    display: none;
+}
+
+#submitAttMsgViewAll{
+    margin-top: 10px;
+}
+
+#spinner
+{
+    display: none;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('images/ripple.gif') 50% 50% no-repeat #faf6f2;
+}

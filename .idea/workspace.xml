@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b1ed5f7-451e-4d4c-b223-97eeaf69e6f3" name="Default" comment="" />
+    <ignored path="project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="examination.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
+              <folding>
+                <marker date="1480319098000" expanded="true" signature="500:542" placeholder="SELECT * FRO..admin..." />
+                <marker date="1480319098000" expanded="true" signature="1520:1580" placeholder="SELECT * FRO..department..." />
+                <marker date="1480319098000" expanded="true" signature="1710:1734" placeholder="SELECT * FRO..department..." />
+                <marker date="1480319098000" expanded="true" signature="2299:2321" placeholder="SELECT * FRO..semester..." />
+                <marker date="1480319098000" expanded="true" signature="2858:2877" placeholder="SELECT * FRO..batch..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1272" column="16" selection-start-line="1272" selection-start-column="16" selection-end-line="1272" selection-end-column="16" />
+              <folding>
+                <marker date="1480319754000" expanded="true" signature="513:555" placeholder="SELECT * FRO..admin..." />
+                <marker date="1480319754000" expanded="true" signature="1462:1520" placeholder="SELECT * FRO..students..." />
+                <marker date="1480319754000" expanded="true" signature="1615:1637" placeholder="SELECT * FRO..students..." />
+                <marker date="1480319754000" expanded="true" signature="2667:2689" placeholder="SELECT * FRO..teachers..." />
+                <marker date="1480319754000" expanded="true" signature="3676:3694" placeholder="SELECT * FRO..book..." />
+                <marker date="1480319754000" expanded="true" signature="4823:5210" placeholder="select m1.id..pm..." />
+                <marker date="1480319754000" expanded="true" signature="5931:5976" placeholder="SELECT dept_..students..." />
+                <marker date="1480319754000" expanded="true" signature="8574:8619" placeholder="SELECT dept_..teachers..." />
+                <marker date="1480319754000" expanded="true" signature="11226:11267" placeholder="SELECT dept_..book..." />
+                <marker date="1480319754000" expanded="true" signature="14334:14412" placeholder="SELECT * FRO..PM..." />
+                <marker date="1480319754000" expanded="true" signature="14714:14793" placeholder="SELECT * FRO..pm..." />
+                <marker date="1480319754000" expanded="true" signature="19596:19667" placeholder="select * fro..students..." />
+                <marker date="1480319754000" expanded="true" signature="19745:19863" placeholder="..." />
+                <marker date="1480319754000" expanded="true" signature="20765:20812" placeholder="select * fro..events..." />
+                <marker date="1480319754000" expanded="true" signature="20892:21008" placeholder="..." />
+                <marker date="1480319754000" expanded="true" signature="22797:22819" placeholder="SELECT * FRO..lectures..." />
+                <marker date="1480319754000" expanded="true" signature="23823:23847" placeholder="SELECT * FRO..assignment..." />
+                <marker date="1480319754000" expanded="true" signature="24891:24975" placeholder="SELECT * FRO..students..." />
+                <marker date="1480319754000" expanded="true" signature="26037:26106" placeholder="select * fro..events..." />
+                <marker date="1480319754000" expanded="true" signature="26181:26297" placeholder="..." />
+                <marker date="1480319754000" expanded="true" signature="28586:28608" placeholder="SELECT * FRO..students..." />
+                <marker date="1480319754000" expanded="true" signature="29616:29638" placeholder="SELECT * FRO..teachers..." />
+                <marker date="1480319754000" expanded="true" signature="30625:30643" placeholder="SELECT * FRO..book..." />
+                <marker date="1480319754000" expanded="true" signature="31626:31703" placeholder="SELECT * FRO..pm..." />
+                <marker date="1480319754000" expanded="true" signature="32389:32434" placeholder="SELECT dept_..students..." />
+                <marker date="1480319754000" expanded="true" signature="35032:35077" placeholder="SELECT dept_..teachers..." />
+                <marker date="1480319754000" expanded="true" signature="37684:37725" placeholder="SELECT dept_..book..." />
+                <marker date="1480319754000" expanded="true" signature="40792:40870" placeholder="SELECT * FRO..PM..." />
+                <marker date="1480319754000" expanded="true" signature="41172:41251" placeholder="SELECT * FRO..pm..." />
+                <marker date="1480319754000" expanded="true" signature="46143:46212" placeholder="select * fro..events..." />
+                <marker date="1480319754000" expanded="true" signature="46287:46403" placeholder="..." />
+                <marker date="1480319754000" expanded="true" signature="48362:48422" placeholder="SELECT * FRO..students..." />
+                <marker date="1480319754000" expanded="true" signature="48537:48596" placeholder="SELECT * FRO..students..." />
+                <marker date="1480319754000" expanded="true" signature="48747:48906" placeholder="SELECT semes..student_attendance..." />
+                <marker date="1480319754000" expanded="true" signature="49052:49276" placeholder="SELECT date,..." />
+                <marker date="1480319754000" expanded="true" signature="49342:49488" placeholder="SELECT DISTI..." />
+                <marker date="1480319754000" expanded="true" signature="50975:51127" placeholder="SELECT semes..student_examresult..." />
+                <marker date="1480319754000" expanded="true" signature="51264:51432" placeholder="SELECT * FRO..student_examresult..." />
+                <marker date="1480319754000" expanded="true" signature="51795:51952" placeholder="SELECT subje..subjects..." />
+                <marker date="1480319754000" expanded="true" signature="53985:54048" placeholder="SELECT * FRO..borrow..." />
+                <marker date="1480319754000" expanded="true" signature="55085:55468" placeholder="select m1.id..pm..." />
+                <marker date="1480319754000" expanded="true" signature="56545:56614" placeholder="select * fro..events..." />
+                <marker date="1480319754000" expanded="true" signature="56691:56807" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attendance.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attendance.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="759" column="0" selection-start-line="759" selection-start-column="0" selection-end-line="759" selection-end-column="0" />
+              <folding>
+                <marker date="1480301086000" expanded="true" signature="461:503" placeholder="SELECT * FRO..admin..." />
+                <marker date="1480301086000" expanded="true" signature="2979:3039" placeholder="SELECT * FRO..department..." />
+                <marker date="1480301086000" expanded="true" signature="3137:3161" placeholder="SELECT * FRO..department..." />
+                <marker date="1480301086000" expanded="true" signature="4304:4323" placeholder="SELECT * FRO..batch..." />
+                <marker date="1480301086000" expanded="true" signature="5221:5243" placeholder="SELECT * FRO..semester..." />
+                <marker date="1480301086000" expanded="true" signature="9466:9485" placeholder="SELECT * FRO..batch..." />
+                <marker date="1480301086000" expanded="true" signature="10395:10417" placeholder="SELECT * FRO..semester..." />
+                <marker date="1480301086000" expanded="true" signature="13083:13102" placeholder="SELECT * FRO..batch..." />
+                <marker date="1480301086000" expanded="true" signature="13866:13888" placeholder="SELECT * FRO..semester..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insert_attendance.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/insert_attendance.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.7096774">
+              <caret line="412" column="16" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
+              <folding>
+                <marker date="1480259430000" expanded="true" signature="662:872" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="1075:1250" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="1453:1731" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="1935:2090" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="2298:2463" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="2671:3479" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="3688:4197" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="4352:4537" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="4688:4791" placeholder="SELECT * FRO..batch..." />
+                <marker date="1480259430000" expanded="true" signature="4890:5006" placeholder="INSERT INTO ..." />
+                <marker date="1480259430000" expanded="true" signature="5072:5259" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="5413:5638" placeholder="SELECT * FRO..semester..." />
+                <marker date="1480259430000" expanded="true" signature="5737:5844" placeholder="INSERT INTO ..." />
+                <marker date="1480259430000" expanded="true" signature="5910:6231" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="6388:6702" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="6865:7092" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="7252:7483" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="7689:8367" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="8587:8645" placeholder="SELECT * FRO..admin..." />
+                <marker date="1480259430000" expanded="true" signature="8859:8945" placeholder="INSERT INTO ..." />
+                <marker date="1480259430000" expanded="true" signature="9055:9154" placeholder="INSERT INTO ..." />
+                <marker date="1480259430000" expanded="true" signature="9308:9393" placeholder="SELECT * FRO..librarian..." />
+                <marker date="1480259430000" expanded="true" signature="9492:9575" placeholder="INSERT INTO ..." />
+                <marker date="1480259430000" expanded="true" signature="9978:10002" placeholder="SELECT * FRO..department..." />
+                <marker date="1480259430000" expanded="true" signature="10138:10199" placeholder="INSERT INTO ..." />
+                <marker date="1480259430000" expanded="true" signature="10311:10736" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="10853:11168" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="11301:11699" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="11820:12071" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="12234:12544" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="12750:13070" placeholder="CREATE TABLE..IF..." />
+                <marker date="1480259430000" expanded="true" signature="13277:13588" placeholder="CREATE TABLE..IF..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sic.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.387097">
+              <caret line="431" column="72" selection-start-line="431" selection-start-column="72" selection-end-line="431" selection-end-column="72" />
+              <folding>
+                <marker date="1485800741465" expanded="true" signature="439:481" placeholder="SELECT * FRO..admin..." />
+                <marker date="1485800741465" expanded="true" signature="3245:3665" placeholder="INSERT INTO ..." />
+                <marker date="1485800741465" expanded="true" signature="5564:5640" placeholder="select * fro..students..." />
+                <marker date="1485800741465" expanded="true" signature="5785:5827" placeholder="select * fro..students..." />
+                <marker date="1485800741465" expanded="true" signature="7134:7194" placeholder="SELECT * FRO..department..." />
+                <marker date="1485800741465" expanded="true" signature="7310:7334" placeholder="SELECT * FRO..department..." />
+                <marker date="1485800741465" expanded="true" signature="9573:9631" placeholder="SELECT * FRO..students..." />
+                <marker date="1485800741465" expanded="true" signature="10395:10417" placeholder="SELECT * FRO..students..." />
+                <marker date="1485800741465" expanded="true" signature="12066:12124" placeholder="SELECT * FRO..students..." />
+                <marker date="1485800741465" expanded="true" signature="13057:13079" placeholder="SELECT * FRO..students..." />
+                <marker date="1485800741465" expanded="true" signature="19539:19599" placeholder="SELECT * FRO..department..." />
+                <marker date="1485800741465" expanded="true" signature="19667:19691" placeholder="SELECT * FRO..department..." />
+                <marker date="1485800741465" expanded="true" signature="26789:26836" placeholder="SELECT dept_..department..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sicprofile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sicprofile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-731.6774">
+              <caret line="1031" column="19" selection-start-line="1031" selection-start-column="19" selection-end-line="1031" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <marker date="1485801371848" expanded="true" signature="444:486" placeholder="SELECT * FRO..admin..." />
+                <marker date="1485801371848" expanded="true" signature="857:891" placeholder="SELECT * FRO..students..." />
+                <marker date="1485801371848" expanded="true" signature="2146:2193" placeholder="SELECT dept_..department..." />
+                <marker date="1485801371848" expanded="true" signature="7651:7711" placeholder="SELECT * FRO..department..." />
+                <marker date="1485801371848" expanded="true" signature="8486:8510" placeholder="SELECT * FRO..department..." />
+                <marker date="1485801371848" expanded="true" signature="26112:26134" placeholder="SELECT * FRO..semester..." />
+                <marker date="1485801371848" expanded="true" signature="28598:28620" placeholder="SELECT * FRO..semester..." />
+                <marker date="1485801371848" expanded="true" signature="30997:31019" placeholder="SELECT * FRO..semester..." />
+                <marker date="1485801371848" expanded="true" signature="48773:48846" placeholder="SELECT dept_..department..." />
+                <marker date="1485801371848" expanded="true" signature="52843:52865" placeholder="SELECT * FRO..semester..." />
+                <marker date="1485801371848" expanded="true" signature="55331:55353" placeholder="SELECT * FRO..semester..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_student.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/update_student.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.774194">
+              <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+              <folding>
+                <marker date="1485801493485" expanded="true" signature="506:569" placeholder="UPDATE stude..." />
+                <marker date="1485801493485" expanded="true" signature="1031:1088" placeholder="SELECT roll_..students..." />
+                <marker date="1485801493485" expanded="true" signature="2085:2166" placeholder="SELECT * FRO..students..." />
+                <marker date="1485801493485" expanded="true" signature="2236:2553" placeholder="UPDATE stude..." />
+                <marker date="1485801493485" expanded="true" signature="2757:3097" placeholder="UPDATE stude..." />
+                <marker date="1485801493485" expanded="true" signature="3415:3446" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_teacher.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/update_teacher.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65625">
+              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+              <folding>
+                <marker date="1485801521851" expanded="true" signature="504:566" placeholder="UPDATE teach..." />
+                <marker date="1485801521851" expanded="true" signature="848:908" placeholder="SELECT emp_i..teachers..." />
+                <marker date="1485801521851" expanded="true" signature="1820:1905" placeholder="SELECT * FRO..teachers..." />
+                <marker date="1485801521851" expanded="true" signature="1979:2239" placeholder="UPDATE teach..." />
+                <marker date="1485801521851" expanded="true" signature="2455:2738" placeholder="UPDATE teach..." />
+                <marker date="1485801521851" expanded="true" signature="3059:3090" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/library/admin/navbar_books.php" />
+        <option value="$PROJECT_DIR$/library/admin/navbar_archive.php" />
+        <option value="$PROJECT_DIR$/show_attendance.php" />
+        <option value="$PROJECT_DIR$/spinnerLoading.js" />
+        <option value="$PROJECT_DIR$/checkData.php" />
+        <option value="$PROJECT_DIR$/library/admin/response.php" />
+        <option value="$PROJECT_DIR$/feedbackConfig.php" />
+        <option value="$PROJECT_DIR$/feedback.php" />
+        <option value="$PROJECT_DIR$/feedbackList_pm.php" />
+        <option value="$PROJECT_DIR$/checkRead_pm.php" />
+        <option value="$PROJECT_DIR$/insert_assignment.php" />
+        <option value="$PROJECT_DIR$/insert_attendance.php" />
+        <option value="$PROJECT_DIR$/insert_student.php" />
+        <option value="$PROJECT_DIR$/insert_subjects.php" />
+        <option value="$PROJECT_DIR$/insert_teacher.php" />
+        <option value="$PROJECT_DIR$/update_assignment.php" />
+        <option value="$PROJECT_DIR$/validate.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/attendance_validate.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/insert_lectures.php" />
+        <option value="$PROJECT_DIR$/update_lectures.php" />
+        <option value="$PROJECT_DIR$/footer_teacher.php" />
+        <option value="$PROJECT_DIR$/lectures.php" />
+        <option value="$PROJECT_DIR$/assignment.php" />
+        <option value="$PROJECT_DIR$/change_password.php" />
+        <option value="$PROJECT_DIR$/validate_password.php" />
+        <option value="$PROJECT_DIR$/navbar_teacher.php" />
+        <option value="$PROJECT_DIR$/attendance.php" />
+        <option value="$PROJECT_DIR$/subjects.php" />
+        <option value="$PROJECT_DIR$/teachers.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/insert_event.php" />
+        <option value="$PROJECT_DIR$/update_event.php" />
+        <option value="$PROJECT_DIR$/events.php" />
+        <option value="$PROJECT_DIR$/library.php" />
+        <option value="$PROJECT_DIR$/library_data.php" />
+        <option value="$PROJECT_DIR$/teacherprofile.php" />
+        <option value="$PROJECT_DIR$/examination_validate.php" />
+        <option value="$PROJECT_DIR$/insert_examination.php" />
+        <option value="$PROJECT_DIR$/examination.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/checkNew_pm.php" />
+        <option value="$PROJECT_DIR$/navbar.php" />
+        <option value="$PROJECT_DIR$/navbar_student.php" />
+        <option value="$PROJECT_DIR$/includes/connection.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/sic.php" />
+        <option value="$PROJECT_DIR$/sicprofile.php" />
+        <option value="$PROJECT_DIR$/update_student.php" />
+        <option value="$PROJECT_DIR$/update_teacher.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b1ed5f7-451e-4d4c-b223-97eeaf69e6f3" name="Default" comment="" />
+      <created>1461749460465</created>
+      <option name="number" value="Default" />
+      <updated>1461749460465</updated>
+      <workItem from="1462001695571" duration="1475000" />
+      <workItem from="1462003192351" duration="3333000" />
+      <workItem from="1462175116265" duration="3670000" />
+      <workItem from="1462780217229" duration="132000" />
+      <workItem from="1462781025404" duration="7582000" />
+      <workItem from="1463377384749" duration="6870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23062000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12298682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scroll.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/insert_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <marker date="1480319098000" expanded="true" signature="500:542" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480319098000" expanded="true" signature="1520:1580" placeholder="SELECT * FRO..department..." />
+            <marker date="1480319098000" expanded="true" signature="1710:1734" placeholder="SELECT * FRO..department..." />
+            <marker date="1480319098000" expanded="true" signature="2299:2321" placeholder="SELECT * FRO..semester..." />
+            <marker date="1480319098000" expanded="true" signature="2858:2877" placeholder="SELECT * FRO..batch..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="307" column="0" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
+          <folding>
+            <marker date="1480319754000" expanded="true" signature="513:555" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480319754000" expanded="true" signature="1462:1520" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="1615:1637" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="2667:2689" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="3676:3694" placeholder="SELECT * FRO..book..." />
+            <marker date="1480319754000" expanded="true" signature="4823:5210" placeholder="select m1.id..pm..." />
+            <marker date="1480319754000" expanded="true" signature="5931:5976" placeholder="SELECT dept_..students..." />
+            <marker date="1480319754000" expanded="true" signature="8574:8619" placeholder="SELECT dept_..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="11226:11267" placeholder="SELECT dept_..book..." />
+            <marker date="1480319754000" expanded="true" signature="14334:14412" placeholder="SELECT * FRO..PM..." />
+            <marker date="1480319754000" expanded="true" signature="14714:14793" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="19596:19667" placeholder="select * fro..students..." />
+            <marker date="1480319754000" expanded="true" signature="19745:19863" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="20765:20812" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="20892:21008" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="22797:22819" placeholder="SELECT * FRO..lectures..." />
+            <marker date="1480319754000" expanded="true" signature="23823:23847" placeholder="SELECT * FRO..assignment..." />
+            <marker date="1480319754000" expanded="true" signature="24891:24975" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="26037:26106" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="26181:26297" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="28586:28608" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="29616:29638" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="30625:30643" placeholder="SELECT * FRO..book..." />
+            <marker date="1480319754000" expanded="true" signature="31626:31703" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="32389:32434" placeholder="SELECT dept_..students..." />
+            <marker date="1480319754000" expanded="true" signature="35032:35077" placeholder="SELECT dept_..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="37684:37725" placeholder="SELECT dept_..book..." />
+            <marker date="1480319754000" expanded="true" signature="40792:40870" placeholder="SELECT * FRO..PM..." />
+            <marker date="1480319754000" expanded="true" signature="41172:41251" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="46143:46212" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="46287:46403" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="48362:48422" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="48537:48596" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="48747:48906" placeholder="SELECT semes..student_attendance..." />
+            <marker date="1480319754000" expanded="true" signature="49052:49276" placeholder="SELECT date,..." />
+            <marker date="1480319754000" expanded="true" signature="49342:49488" placeholder="SELECT DISTI..." />
+            <marker date="1480319754000" expanded="true" signature="50975:51127" placeholder="SELECT semes..student_examresult..." />
+            <marker date="1480319754000" expanded="true" signature="51264:51432" placeholder="SELECT * FRO..student_examresult..." />
+            <marker date="1480319754000" expanded="true" signature="51795:51952" placeholder="SELECT subje..subjects..." />
+            <marker date="1480319754000" expanded="true" signature="53985:54048" placeholder="SELECT * FRO..borrow..." />
+            <marker date="1480319754000" expanded="true" signature="55085:55468" placeholder="select m1.id..pm..." />
+            <marker date="1480319754000" expanded="true" signature="56545:56614" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="56691:56807" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teachers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkNew_pm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="141" column="31" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination_validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+          <folding>
+            <marker date="1480319098000" expanded="true" signature="500:542" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480319098000" expanded="true" signature="1520:1580" placeholder="SELECT * FRO..department..." />
+            <marker date="1480319098000" expanded="true" signature="1710:1734" placeholder="SELECT * FRO..department..." />
+            <marker date="1480319098000" expanded="true" signature="2299:2321" placeholder="SELECT * FRO..semester..." />
+            <marker date="1480319098000" expanded="true" signature="2858:2877" placeholder="SELECT * FRO..batch..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="288" column="0" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+          <folding>
+            <marker date="1480319754000" expanded="true" signature="513:555" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480319754000" expanded="true" signature="1462:1520" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="1615:1637" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="2667:2689" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="3676:3694" placeholder="SELECT * FRO..book..." />
+            <marker date="1480319754000" expanded="true" signature="4823:5210" placeholder="select m1.id..pm..." />
+            <marker date="1480319754000" expanded="true" signature="5931:5976" placeholder="SELECT dept_..students..." />
+            <marker date="1480319754000" expanded="true" signature="8574:8619" placeholder="SELECT dept_..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="11226:11267" placeholder="SELECT dept_..book..." />
+            <marker date="1480319754000" expanded="true" signature="14334:14412" placeholder="SELECT * FRO..PM..." />
+            <marker date="1480319754000" expanded="true" signature="14714:14793" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="19596:19667" placeholder="select * fro..students..." />
+            <marker date="1480319754000" expanded="true" signature="19745:19863" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="20765:20812" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="20892:21008" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="22797:22819" placeholder="SELECT * FRO..lectures..." />
+            <marker date="1480319754000" expanded="true" signature="23823:23847" placeholder="SELECT * FRO..assignment..." />
+            <marker date="1480319754000" expanded="true" signature="24891:24975" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="26037:26106" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="26181:26297" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="28586:28608" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="29616:29638" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="30625:30643" placeholder="SELECT * FRO..book..." />
+            <marker date="1480319754000" expanded="true" signature="31626:31703" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="32389:32434" placeholder="SELECT dept_..students..." />
+            <marker date="1480319754000" expanded="true" signature="35032:35077" placeholder="SELECT dept_..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="37684:37725" placeholder="SELECT dept_..book..." />
+            <marker date="1480319754000" expanded="true" signature="40792:40870" placeholder="SELECT * FRO..PM..." />
+            <marker date="1480319754000" expanded="true" signature="41172:41251" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="46143:46212" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="46287:46403" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="48362:48422" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="48537:48596" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="48747:48906" placeholder="SELECT semes..student_attendance..." />
+            <marker date="1480319754000" expanded="true" signature="49052:49276" placeholder="SELECT date,..." />
+            <marker date="1480319754000" expanded="true" signature="49342:49488" placeholder="SELECT DISTI..." />
+            <marker date="1480319754000" expanded="true" signature="50975:51127" placeholder="SELECT semes..student_examresult..." />
+            <marker date="1480319754000" expanded="true" signature="51264:51432" placeholder="SELECT * FRO..student_examresult..." />
+            <marker date="1480319754000" expanded="true" signature="51795:51952" placeholder="SELECT subje..subjects..." />
+            <marker date="1480319754000" expanded="true" signature="53985:54048" placeholder="SELECT * FRO..borrow..." />
+            <marker date="1480319754000" expanded="true" signature="55085:55468" placeholder="select m1.id..pm..." />
+            <marker date="1480319754000" expanded="true" signature="56545:56614" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="56691:56807" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teachers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkNew_pm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination_validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5757575">
+          <caret line="68" column="68" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_teacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3658535">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_subjects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66550523">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.30303">
+          <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="941" column="0" selection-start-line="941" selection-start-column="0" selection-end-line="951" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance_validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.818182">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5017422">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07932692">
+          <caret line="3" column="78" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waiting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.42668268">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6610577">
+          <caret line="37" column="19" selection-start-line="35" selection-start-column="12" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.966667">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination_validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkNew_pm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teachers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navbar_student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+          <folding>
+            <marker date="1482691389946" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..students..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navbar_teacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1480296220000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teachers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
+          <folding>
+            <marker date="1480319098000" expanded="true" signature="500:542" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480319098000" expanded="true" signature="1520:1580" placeholder="SELECT * FRO..department..." />
+            <marker date="1480319098000" expanded="true" signature="1710:1734" placeholder="SELECT * FRO..department..." />
+            <marker date="1480319098000" expanded="true" signature="2299:2321" placeholder="SELECT * FRO..semester..." />
+            <marker date="1480319098000" expanded="true" signature="2858:2877" placeholder="SELECT * FRO..batch..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="1272" column="16" selection-start-line="1272" selection-start-column="16" selection-end-line="1272" selection-end-column="16" />
+          <folding>
+            <marker date="1480319754000" expanded="true" signature="513:555" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480319754000" expanded="true" signature="1462:1520" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="1615:1637" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="2667:2689" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="3676:3694" placeholder="SELECT * FRO..book..." />
+            <marker date="1480319754000" expanded="true" signature="4823:5210" placeholder="select m1.id..pm..." />
+            <marker date="1480319754000" expanded="true" signature="5931:5976" placeholder="SELECT dept_..students..." />
+            <marker date="1480319754000" expanded="true" signature="8574:8619" placeholder="SELECT dept_..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="11226:11267" placeholder="SELECT dept_..book..." />
+            <marker date="1480319754000" expanded="true" signature="14334:14412" placeholder="SELECT * FRO..PM..." />
+            <marker date="1480319754000" expanded="true" signature="14714:14793" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="19596:19667" placeholder="select * fro..students..." />
+            <marker date="1480319754000" expanded="true" signature="19745:19863" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="20765:20812" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="20892:21008" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="22797:22819" placeholder="SELECT * FRO..lectures..." />
+            <marker date="1480319754000" expanded="true" signature="23823:23847" placeholder="SELECT * FRO..assignment..." />
+            <marker date="1480319754000" expanded="true" signature="24891:24975" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="26037:26106" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="26181:26297" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="28586:28608" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="29616:29638" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="30625:30643" placeholder="SELECT * FRO..book..." />
+            <marker date="1480319754000" expanded="true" signature="31626:31703" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="32389:32434" placeholder="SELECT dept_..students..." />
+            <marker date="1480319754000" expanded="true" signature="35032:35077" placeholder="SELECT dept_..teachers..." />
+            <marker date="1480319754000" expanded="true" signature="37684:37725" placeholder="SELECT dept_..book..." />
+            <marker date="1480319754000" expanded="true" signature="40792:40870" placeholder="SELECT * FRO..PM..." />
+            <marker date="1480319754000" expanded="true" signature="41172:41251" placeholder="SELECT * FRO..pm..." />
+            <marker date="1480319754000" expanded="true" signature="46143:46212" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="46287:46403" placeholder="..." />
+            <marker date="1480319754000" expanded="true" signature="48362:48422" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="48537:48596" placeholder="SELECT * FRO..students..." />
+            <marker date="1480319754000" expanded="true" signature="48747:48906" placeholder="SELECT semes..student_attendance..." />
+            <marker date="1480319754000" expanded="true" signature="49052:49276" placeholder="SELECT date,..." />
+            <marker date="1480319754000" expanded="true" signature="49342:49488" placeholder="SELECT DISTI..." />
+            <marker date="1480319754000" expanded="true" signature="50975:51127" placeholder="SELECT semes..student_examresult..." />
+            <marker date="1480319754000" expanded="true" signature="51264:51432" placeholder="SELECT * FRO..student_examresult..." />
+            <marker date="1480319754000" expanded="true" signature="51795:51952" placeholder="SELECT subje..subjects..." />
+            <marker date="1480319754000" expanded="true" signature="53985:54048" placeholder="SELECT * FRO..borrow..." />
+            <marker date="1480319754000" expanded="true" signature="55085:55468" placeholder="select m1.id..pm..." />
+            <marker date="1480319754000" expanded="true" signature="56545:56614" placeholder="select * fro..events..." />
+            <marker date="1480319754000" expanded="true" signature="56691:56807" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="759" column="0" selection-start-line="759" selection-start-column="0" selection-end-line="759" selection-end-column="0" />
+          <folding>
+            <marker date="1480301086000" expanded="true" signature="461:503" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480301086000" expanded="true" signature="2979:3039" placeholder="SELECT * FRO..department..." />
+            <marker date="1480301086000" expanded="true" signature="3137:3161" placeholder="SELECT * FRO..department..." />
+            <marker date="1480301086000" expanded="true" signature="4304:4323" placeholder="SELECT * FRO..batch..." />
+            <marker date="1480301086000" expanded="true" signature="5221:5243" placeholder="SELECT * FRO..semester..." />
+            <marker date="1480301086000" expanded="true" signature="9466:9485" placeholder="SELECT * FRO..batch..." />
+            <marker date="1480301086000" expanded="true" signature="10395:10417" placeholder="SELECT * FRO..semester..." />
+            <marker date="1480301086000" expanded="true" signature="13083:13102" placeholder="SELECT * FRO..batch..." />
+            <marker date="1480301086000" expanded="true" signature="13866:13888" placeholder="SELECT * FRO..semester..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7096774">
+          <caret line="412" column="16" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
+          <folding>
+            <marker date="1480259430000" expanded="true" signature="662:872" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="1075:1250" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="1453:1731" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="1935:2090" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="2298:2463" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="2671:3479" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="3688:4197" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="4352:4537" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="4688:4791" placeholder="SELECT * FRO..batch..." />
+            <marker date="1480259430000" expanded="true" signature="4890:5006" placeholder="INSERT INTO ..." />
+            <marker date="1480259430000" expanded="true" signature="5072:5259" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="5413:5638" placeholder="SELECT * FRO..semester..." />
+            <marker date="1480259430000" expanded="true" signature="5737:5844" placeholder="INSERT INTO ..." />
+            <marker date="1480259430000" expanded="true" signature="5910:6231" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="6388:6702" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="6865:7092" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="7252:7483" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="7689:8367" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="8587:8645" placeholder="SELECT * FRO..admin..." />
+            <marker date="1480259430000" expanded="true" signature="8859:8945" placeholder="INSERT INTO ..." />
+            <marker date="1480259430000" expanded="true" signature="9055:9154" placeholder="INSERT INTO ..." />
+            <marker date="1480259430000" expanded="true" signature="9308:9393" placeholder="SELECT * FRO..librarian..." />
+            <marker date="1480259430000" expanded="true" signature="9492:9575" placeholder="INSERT INTO ..." />
+            <marker date="1480259430000" expanded="true" signature="9978:10002" placeholder="SELECT * FRO..department..." />
+            <marker date="1480259430000" expanded="true" signature="10138:10199" placeholder="INSERT INTO ..." />
+            <marker date="1480259430000" expanded="true" signature="10311:10736" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="10853:11168" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="11301:11699" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="11820:12071" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="12234:12544" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="12750:13070" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480259430000" expanded="true" signature="13277:13588" placeholder="CREATE TABLE..IF..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.387097">
+          <caret line="431" column="72" selection-start-line="431" selection-start-column="72" selection-end-line="431" selection-end-column="72" />
+          <folding>
+            <marker date="1485800741465" expanded="true" signature="439:481" placeholder="SELECT * FRO..admin..." />
+            <marker date="1485800741465" expanded="true" signature="3245:3665" placeholder="INSERT INTO ..." />
+            <marker date="1485800741465" expanded="true" signature="5564:5640" placeholder="select * fro..students..." />
+            <marker date="1485800741465" expanded="true" signature="5785:5827" placeholder="select * fro..students..." />
+            <marker date="1485800741465" expanded="true" signature="7134:7194" placeholder="SELECT * FRO..department..." />
+            <marker date="1485800741465" expanded="true" signature="7310:7334" placeholder="SELECT * FRO..department..." />
+            <marker date="1485800741465" expanded="true" signature="9573:9631" placeholder="SELECT * FRO..students..." />
+            <marker date="1485800741465" expanded="true" signature="10395:10417" placeholder="SELECT * FRO..students..." />
+            <marker date="1485800741465" expanded="true" signature="12066:12124" placeholder="SELECT * FRO..students..." />
+            <marker date="1485800741465" expanded="true" signature="13057:13079" placeholder="SELECT * FRO..students..." />
+            <marker date="1485800741465" expanded="true" signature="19539:19599" placeholder="SELECT * FRO..department..." />
+            <marker date="1485800741465" expanded="true" signature="19667:19691" placeholder="SELECT * FRO..department..." />
+            <marker date="1485800741465" expanded="true" signature="26789:26836" placeholder="SELECT dept_..department..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sicprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-731.6774">
+          <caret line="1031" column="19" selection-start-line="1031" selection-start-column="19" selection-end-line="1031" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <marker date="1485801371848" expanded="true" signature="444:486" placeholder="SELECT * FRO..admin..." />
+            <marker date="1485801371848" expanded="true" signature="857:891" placeholder="SELECT * FRO..students..." />
+            <marker date="1485801371848" expanded="true" signature="2146:2193" placeholder="SELECT dept_..department..." />
+            <marker date="1485801371848" expanded="true" signature="7651:7711" placeholder="SELECT * FRO..department..." />
+            <marker date="1485801371848" expanded="true" signature="8486:8510" placeholder="SELECT * FRO..department..." />
+            <marker date="1485801371848" expanded="true" signature="26112:26134" placeholder="SELECT * FRO..semester..." />
+            <marker date="1485801371848" expanded="true" signature="28598:28620" placeholder="SELECT * FRO..semester..." />
+            <marker date="1485801371848" expanded="true" signature="30997:31019" placeholder="SELECT * FRO..semester..." />
+            <marker date="1485801371848" expanded="true" signature="48773:48846" placeholder="SELECT dept_..department..." />
+            <marker date="1485801371848" expanded="true" signature="52843:52865" placeholder="SELECT * FRO..semester..." />
+            <marker date="1485801371848" expanded="true" signature="55331:55353" placeholder="SELECT * FRO..semester..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.774194">
+          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+          <folding>
+            <marker date="1485801493485" expanded="true" signature="506:569" placeholder="UPDATE stude..." />
+            <marker date="1485801493485" expanded="true" signature="1031:1088" placeholder="SELECT roll_..students..." />
+            <marker date="1485801493485" expanded="true" signature="2085:2166" placeholder="SELECT * FRO..students..." />
+            <marker date="1485801493485" expanded="true" signature="2236:2553" placeholder="UPDATE stude..." />
+            <marker date="1485801493485" expanded="true" signature="2757:3097" placeholder="UPDATE stude..." />
+            <marker date="1485801493485" expanded="true" signature="3415:3446" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_teacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65625">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+          <folding>
+            <marker date="1485801521851" expanded="true" signature="504:566" placeholder="UPDATE teach..." />
+            <marker date="1485801521851" expanded="true" signature="848:908" placeholder="SELECT emp_i..teachers..." />
+            <marker date="1485801521851" expanded="true" signature="1820:1905" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1485801521851" expanded="true" signature="1979:2239" placeholder="UPDATE teach..." />
+            <marker date="1485801521851" expanded="true" signature="2455:2738" placeholder="UPDATE teach..." />
+            <marker date="1485801521851" expanded="true" signature="3059:3090" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

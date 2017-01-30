@@ -1,0 +1,195 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+@font-face {
+  font-family: 'Slabo 27px';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Slabo 27px'), local('Slabo27px-Regular'), url('Slabo_27px/slabo.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Slabo 27px';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Slabo 27px'), local('Slabo27px-Regular'), url('Slabo_27px/PuwvqkdbcqU-fCZ9Ed-b7fk_vArhqVIZ0nv9q090hN8.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+
+html{
+  height: 100%;
+}
+
+body {
+  font-family: 'Slabo 27px', serif;
+  height: 100%;
+  min-height: 90%;
+  padding-top: 50px;
+  background: rgba(235,246,250,1);
+  background: -moz-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(235,246,250,1)), color-stop(50%, rgba(209,228,239,1)), color-stop(51%, rgba(198,224,235,1)), color-stop(100%, rgba(190,226,234,1)));
+  background: -webkit-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+  background: -o-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+  background: -ms-linear-gradient(-45deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+  background: linear-gradient(135deg, rgba(235,246,250,1) 0%, rgba(209,228,239,1) 50%, rgba(198,224,235,1) 51%, rgba(190,226,234,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebf6fa', endColorstr='#bee2ea', GradientType=1 );  -webkit-box-shadow: 0 0 15px 2px rgba(255,255,255,1);
+  position: relative;
+}
+
+
+
+/*
+ * Global add-ons
+ */
+
+.sub-header {
+  margin-top: -10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+  }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #428bca;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+@media (max-width: 768px) {
+  .main .page-header{
+    margin-top: 40px;
+  }
+}
+
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+
+#footer{;
+  width:100%;
+  background:#169DDA;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0063a4), color-stop(100%, #169DDA));
+  padding:10px;
+  border-top:2px solid #261181;
+  float:left;
+  position: absolute;
+  top: 100%;
+  height: 180px;
+}
+.footer_left{
+  width:15.95%;
+  margin-top:3px;
+  font-size:14px;
+  color:#FFFFFF;
+  float:left
+}
+.footer_center{
+  width:58.5%;
+  margin-top:3px;
+  margin-left:70px;
+  font-size:16px;
+  color:black;
+  float:left;
+  text-align:center
+}
+.footer_center a{
+  color:white;
+}
+.footer_right{
+  width:26.5%;
+  margin-top:30px;
+  margin-left:250px;
+  font-size:16px;
+  color:#FFFFFF;
+  float:left;
+  text-align:center
+}
+
+
+.profileHeading{
+  padding: 0 40px;
+}
