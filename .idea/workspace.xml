@@ -112,12 +112,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insert_attendance.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="insert_attendance.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/insert_attendance.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.45833334">
+              <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
+              <folding>
+                <marker date="1480253814000" expanded="true" signature="1597:1995" placeholder="UPDATE stude..." />
+                <marker date="1480253814000" expanded="true" signature="3673:4270" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +128,7 @@
       <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/connection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7096774">
+            <state vertical-scroll-proportion="0.0">
               <caret line="412" column="16" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
               <folding>
                 <marker date="1480259430000" expanded="true" signature="662:872" placeholder="CREATE TABLE..IF..." />
@@ -168,7 +171,7 @@
       <file leaf-file-name="sic.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sic.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.387097">
+            <state vertical-scroll-proportion="0.0">
               <caret line="431" column="72" selection-start-line="431" selection-start-column="72" selection-end-line="431" selection-end-column="72" />
               <folding>
                 <marker date="1485800741465" expanded="true" signature="439:481" placeholder="SELECT * FRO..admin..." />
@@ -192,11 +195,9 @@
       <file leaf-file-name="sicprofile.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sicprofile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-731.6774">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1031" column="19" selection-start-line="1031" selection-start-column="19" selection-end-line="1031" selection-end-column="19" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
                 <marker date="1485801371848" expanded="true" signature="444:486" placeholder="SELECT * FRO..admin..." />
                 <marker date="1485801371848" expanded="true" signature="857:891" placeholder="SELECT * FRO..students..." />
                 <marker date="1485801371848" expanded="true" signature="2146:2193" placeholder="SELECT dept_..department..." />
@@ -216,7 +217,7 @@
       <file leaf-file-name="update_student.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/update_student.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.774194">
+            <state vertical-scroll-proportion="0.0">
               <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
               <folding>
                 <marker date="1485801493485" expanded="true" signature="506:569" placeholder="UPDATE stude..." />
@@ -230,11 +231,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="update_teacher.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="update_teacher.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/update_teacher.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65625">
-              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1485801521851" expanded="true" signature="504:566" placeholder="UPDATE teach..." />
                 <marker date="1485801521851" expanded="true" signature="848:908" placeholder="SELECT emp_i..teachers..." />
@@ -376,7 +377,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -480,6 +481,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/update_teacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1485801521851" expanded="true" signature="504:566" placeholder="UPDATE teach..." />
+            <marker date="1485801521851" expanded="true" signature="848:908" placeholder="SELECT emp_i..teachers..." />
+            <marker date="1485801521851" expanded="true" signature="1820:1905" placeholder="SELECT * FRO..teachers..." />
+            <marker date="1485801521851" expanded="true" signature="1979:2239" placeholder="UPDATE teach..." />
+            <marker date="1485801521851" expanded="true" signature="2455:2738" placeholder="UPDATE teach..." />
+            <marker date="1485801521851" expanded="true" signature="3059:3090" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/insert_examination.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -571,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,9 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
-          <folding>
-            <marker date="1482691389946" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..students..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,9 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <marker date="1480296220000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teachers..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -965,17 +971,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/insert_attendance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7096774">
+        <state vertical-scroll-proportion="0.0">
           <caret line="412" column="16" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
           <folding>
             <marker date="1480259430000" expanded="true" signature="662:872" placeholder="CREATE TABLE..IF..." />
@@ -1016,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.387097">
+        <state vertical-scroll-proportion="0.0">
           <caret line="431" column="72" selection-start-line="431" selection-start-column="72" selection-end-line="431" selection-end-column="72" />
           <folding>
             <marker date="1485800741465" expanded="true" signature="439:481" placeholder="SELECT * FRO..admin..." />
@@ -1038,11 +1036,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sicprofile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-731.6774">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1031" column="19" selection-start-line="1031" selection-start-column="19" selection-end-line="1031" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
             <marker date="1485801371848" expanded="true" signature="444:486" placeholder="SELECT * FRO..admin..." />
             <marker date="1485801371848" expanded="true" signature="857:891" placeholder="SELECT * FRO..students..." />
             <marker date="1485801371848" expanded="true" signature="2146:2193" placeholder="SELECT dept_..department..." />
@@ -1060,7 +1056,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/update_student.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.774194">
+        <state vertical-scroll-proportion="0.0">
           <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
           <folding>
             <marker date="1485801493485" expanded="true" signature="506:569" placeholder="UPDATE stude..." />
@@ -1075,8 +1071,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/update_teacher.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65625">
-          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1485801521851" expanded="true" signature="504:566" placeholder="UPDATE teach..." />
             <marker date="1485801521851" expanded="true" signature="848:908" placeholder="SELECT emp_i..teachers..." />
@@ -1084,6 +1080,17 @@
             <marker date="1485801521851" expanded="true" signature="1979:2239" placeholder="UPDATE teach..." />
             <marker date="1485801521851" expanded="true" signature="2455:2738" placeholder="UPDATE teach..." />
             <marker date="1485801521851" expanded="true" signature="3059:3090" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45833334">
+          <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
+          <folding>
+            <marker date="1480253814000" expanded="true" signature="1597:1995" placeholder="UPDATE stude..." />
+            <marker date="1480253814000" expanded="true" signature="3673:4270" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>

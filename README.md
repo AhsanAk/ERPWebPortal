@@ -16,5 +16,5 @@
 ### Import teachers data via excel file at teachers.php page:
 #### file directory: data/teachers.xls
 
-### Import students data via excel file at subjects.php page:
+### Import subjects data via excel file at subjects.php page:
 #### file directory: data/subjects.xls
